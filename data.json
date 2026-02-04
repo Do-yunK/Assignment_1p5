@@ -1,26 +1,26 @@
 [
     {
     "name": "Title",
-    "icon": "💎",
-    "color": "#ADD8E6",
+    "icon": "🤍",
+    "color": "#eeeeee",
     "amount": 180.47
   },
   {
     "name": "Title",
-    "icon": "💎",
-    "color": "lightgreen",
+    "icon": "🤍",
+    "color": "#dddddd",
     "amount": 50.28
   },
   {
     "name": "Title",
-    "icon": "💎",
-    "color": "plum",
+    "icon": "🤍",
+    "color": "#bbbbbb",
     "amount": 37.72
   },
   {
     "name": "Title",
-    "icon": "💎",
-    "color": "#36A2EB",
+    "icon": "🤍",
+    "color": "#a3a3a3",
     "amount": 22.34
   }
 ]

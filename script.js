@@ -5,7 +5,7 @@ function preload() {
 }
 
 function setup() {
-    let canvas = createCanvas(696, 400);
+    let canvas = createCanvas(500, 400);
     canvas.parent('js-container');
 }
 function draw() {

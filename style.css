@@ -8,11 +8,21 @@ h2 {
     background-clip: text;
 }
 
+.card h1:hover,
+.card h2:hover,
+.card h3:hover {
+    transform: scale(1.05);
+    text-shadow: 0 0 20px rgba(114, 147, 156, 0.8);
+}
+.card p:hover {
+    transform: none;
+    text-shadow: none;
+}
+
 p:hover {
     transform: scale(1.05);
     text-shadow: 0 0 20px rgba(114, 147, 156, 0.8);
 }
-
 
 p {
     font-family: 'Exo 2', sans-serif;
@@ -32,4 +42,9 @@ body {
     font-optical-sizing: auto;
     font-weight: 100;
     font-style: normal;
+}
+
+.card {
+    border: 2px solid #ffffff;
+    background-color: #72939c;
 }
