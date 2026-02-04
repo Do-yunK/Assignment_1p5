@@ -9,7 +9,8 @@ function setup() {
     canvas.parent('js-container');
 }
 function draw() {
-    background(255);
+    background('#ADD8E6');
+    //background(255);
 
     Object.values(list).map((item, index) => {
         fill(item.color);
