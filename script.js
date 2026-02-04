@@ -5,11 +5,11 @@ function preload() {
 }
 
 function setup() {
-    let canvas = createCanvas(720, 400);
+    let canvas = createCanvas(696, 400);
     canvas.parent('js-container');
 }
 function draw() {
-    background('#ADD8E6');
+    background('#72939c');
     //background(255);
 
     Object.values(list).map((item, index) => {
