@@ -1,7 +1,7 @@
 [
   {
     "name": "Title",
-    "icon": "☕️",
+    "image": "images/coffee-bag.png",
     "color": "#dbc1ac",
     "amount": 180.47
   },
