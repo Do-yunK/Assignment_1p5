@@ -9,7 +9,7 @@ function setup() {
     canvas.parent('js-container');
 }
 function draw() {
-    background('#72939c');
+    background('#ece0d1');
     //background(255);
 
     Object.values(list).map((item, index) => {

@@ -1,26 +1,32 @@
 [
-    {
+  {
     "name": "Title",
-    "icon": "🤍",
-    "color": "#eeeeee",
+    "icon": "☕️",
+    "color": "#dbc1ac",
     "amount": 180.47
   },
   {
     "name": "Title",
-    "icon": "🤍",
-    "color": "#dddddd",
+    "icon": "☕️",
+    "color": "#967259",
     "amount": 50.28
   },
   {
     "name": "Title",
-    "icon": "🤍",
-    "color": "#bbbbbb",
+    "icon": "☕️",
+    "color": "#9D673A",
     "amount": 37.72
   },
   {
     "name": "Title",
-    "icon": "🤍",
-    "color": "#a3a3a3",
+    "icon": "☕️",
+    "color": "#591F0B",
+    "amount": 37.72
+  },
+  {
+    "name": "Title",
+    "icon": "☕️",
+    "color": "#634832",
     "amount": 22.34
   }
 ]
