@@ -15,7 +15,7 @@ function draw() {
     Object.values(list).map((item, index) => {
         fill(item.color);
         stroke(255);
-        rect(50, index * 60 + 70, item.amount / 180 * 340, 15);
+        rect(50, index * 60 + 70, item.amount / 180 * 740, 30);
         textAlign("left");
         fill(255)
         noStroke();

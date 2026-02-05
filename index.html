@@ -92,7 +92,7 @@
 
             <div class="col-12 p-5">
 
-                <h2> Title </h2>
+                <h2> No Cream, No Sugar </h2>
             </div>
 
             <div class="row justify-content-center">
@@ -171,16 +171,17 @@
         new Chart(ctx2, {
             type: 'doughnut',
             data: {
-                labels: ['English', 'French', 'Other', 'N/A'],
+                labels: ['Atlantic Canadian', 'Quebec', 'Ontario', 'Alberta', 'British Columbia', 'Saskatchewan & Manitoba'],
                 datasets: [{
-                    label: 'Primary Language',
-                    data: [44, 2, 51, 3],
+                    label: '% Percentage',
+                    data: [13, 15, 16, 17, 21, 22],
                     backgroundColor: [
                         '#dbc1ac',
                         '#967259',
-                        '#9D673A',
+                        '#38220f',
                         '#591F0B',
-                        '#634832'
+                        '#634832',
+                        '#9D673A',
                     ],
                     borderWidth: 1
                 }]
@@ -200,23 +201,24 @@
             type: 'line',
             data: {
                 labels: [
-                    'Born in Canada',
-                    '5 Years',
-                    '5-10 Years',
-                    '>10 years',
-                    'International',
-                    'Other',
-                    'N/A'],
+                    'Atlantic Canadian',
+                    'Quebec',
+                    'Ontario',
+                    'Alberta',
+                    'British Columbia',
+                    'Saskatchewan & Manitoba'],
+
 
                 datasets: [{
-                    label: 'Primary Language',
-                    data: [38, 14, 7, 11, 5, 6, 7],
+                    label: 'Black Coffee Percentage %',
+                    data: [13, 15, 16, 17, 21, 22],
                     backgroundColor: [
                         '#dbc1ac',
                         '#967259',
-                        '#9D673A',
+                        '#38220f',
                         '#591F0B',
-                        '#634832'
+                        '#634832',
+                        '#9D673A',
                     ],
                     borderWidth: 1
                 }]

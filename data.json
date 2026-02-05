@@ -1,32 +1,32 @@
 [
   {
-    "name": "Title",
-    "image": "images/coffee-bag.png",
+    "name": "#1. No Creamer",
+    "icon": "☕️",
     "color": "#dbc1ac",
-    "amount": 180.47
+    "amount": 17
   },
   {
-    "name": "Title",
+    "name": "#2, #3, #4. Little bit of Milk or Creamer",
     "icon": "☕️",
     "color": "#967259",
-    "amount": 50.28
+    "amount": 18
   },
   {
-    "name": "Title",
+    "name": "#5, #6, #7. Larger amount of Milk or Creamer",
     "icon": "☕️",
     "color": "#9D673A",
-    "amount": 37.72
+    "amount": 43
   },
   {
-    "name": "Title",
+    "name": "#8, #9. Significantly greater amount of Milk or Creamer",
     "icon": "☕️",
     "color": "#591F0B",
-    "amount": 37.72
+    "amount": 8
   },
   {
-    "name": "Title",
+    "name": "Dont drink Coffee",
     "icon": "☕️",
-    "color": "#634832",
-    "amount": 22.34
+    "color": "#8C5A33",
+    "amount": 15
   }
 ]
