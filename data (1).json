@@ -1,0 +1,33 @@
+{
+  "title": "Household Spending on Coffee and Tea in Canada",
+  "source": "Statistics Canada Table 18-10-0004-01",
+  "months": [
+    "August 2024",
+    "September 2024",
+    "October 2024",
+    "November 2024",
+    "December 2024",
+    "January 2025",
+    "February 2025",
+    "March 2025",
+    "April 2025",
+    "May 2025",
+    "June 2025",
+    "July 2025",
+    "August 2025"
+  ],
+  "products": [
+    {
+      "name": "Coffee (2002=100)",
+      "data": [163.8, 163.7, 166.5, 167.9, 165.2, 169.3, 175.9, 182.3, 185.9, 187.7, 203.1, 210.8, 209.5]
+    },
+    {
+      "name": "Roasted or ground coffee (2013=100)",
+      "data": [123.8, 121.1, 124.4, 126.1, 125.5, 129.3, 135.5, 137.9, 141.8, 146.3, 160.4, 170.4, 167.4]
+    },
+    {
+      "name": "Instant and other coffee (2013=100)",
+      "data": [107.1, 110.2, 110.7, 110.8, 107.3, 109.1, 112.0, 119.0, 120.0, 118.3, 126.0, 127.2, 128.2]
+    }
+  ]
+}

@@ -15,16 +15,16 @@ function draw() {
     Object.values(list).map((item, index) => {
         fill(item.color);
         stroke(255);
-        rect(50, index * 60 + 70, item.amount / 180 * 740, 30);
+        rect(100, index * 60 + 70, item.amount / 180 * 740, 30);
         textAlign("left");
         fill(255)
         noStroke();
         textSize(20);
-        text(item.name, 50, index * 60 + 65);
+        text(item.name, 100, index * 60 + 65);
 
         textSize(32);
         textAlign("right");
-        text(item.icon, 45, index * 60 + 75);
+        text(item.amount + "%", 80, index * 60 + 95);
 
 
     });

@@ -1,32 +1,27 @@
 [
   {
     "name": "#1. No Creamer",
-    "icon": "☕️",
-    "color": "#dbc1ac",
+    "color": "#591F0B",
     "amount": 17
   },
   {
-    "name": "#2, #3, #4. Little bit of Milk or Creamer",
-    "icon": "☕️",
-    "color": "#967259",
+    "name": "#2, #3, #4. Little Bit of Milk or Creamer",
+    "color": "#8C5A33",
     "amount": 18
   },
   {
-    "name": "#5, #6, #7. Larger amount of Milk or Creamer",
-    "icon": "☕️",
-    "color": "#9D673A",
+    "name": "#5, #6, #7. Larger Amount of Milk or Creamer",
+    "color": "#8C5A33",
     "amount": 43
   },
   {
-    "name": "#8, #9. Significantly greater amount of Milk or Creamer",
-    "icon": "☕️",
-    "color": "#591F0B",
+    "name": "#8, #9. Significant Amount of Milk or Creamer",
+    "color": "#dbc1ac",
     "amount": 8
   },
   {
-    "name": "Dont drink Coffee",
-    "icon": "☕️",
-    "color": "#8C5A33",
+    "name": "Don't Drink Coffee",
+    "color": "255",
     "amount": 15
   }
 ]
