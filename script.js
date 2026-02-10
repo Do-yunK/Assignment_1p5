@@ -10,16 +10,15 @@ function setup() {
 }
 function draw() {
     background('#ece0d1');
-    //background(255);
 
     Object.values(list).map((item, index) => {
         fill(item.color);
-        stroke(255);
+        stroke('#38220f');
         rect(100, index * 60 + 70, item.amount / 180 * 740, 30);
         textAlign("left");
-        fill(255)
+        fill('#38220f')
         noStroke();
-        textSize(20);
+        textSize(16);
         text(item.name, 100, index * 60 + 65);
 
         textSize(32);

@@ -2,10 +2,7 @@ h1,
 h2 {
     text-align: left;
     font-family: 'Exo 2', sans-serif;
-    background: linear-gradient(135deg, #38220f 0%, #ece0d1 100%);
-    -webkit-background-clip: text;
-    -webkit-text-fill-color: transparent;
-    background-clip: text;
+    color: #38220f;
 }
 
 .card h1:hover,
